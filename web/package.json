@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx tailwindcss -i ./src/site.css -o ./dist/output.css"
+    "build": "npx tailwindcss -i ./src/site.css -o ./dist/site.css"
   },
   "author": "",
   "license": "ISC"
